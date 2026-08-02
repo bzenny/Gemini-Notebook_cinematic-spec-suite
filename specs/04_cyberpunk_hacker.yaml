@@ -1,0 +1,39 @@
+# Style: Cyber-Industrial / Developer HUD / Tactical Interface
+# Tone: Hyper-connected, urgent, technical, rebellious
+
+Global Visual Settings:
+  Color Palette:
+    Background: "#090D16 (Dark Cyber Slate)"
+    Primary Text: "#00FF66 (Terminal Neon Green)"
+    Secondary Accent: "#FF0055 (Glitch Cyber Magenta)"
+    UI Framing: "#1E293B (Muted Data Slate)"
+  Atmosphere & Lighting:
+    Lighting: "CRT monitor scanlines; flickering edge neon glows; high-tech HUD projection overlays."
+    Texture: "Digital glitch artifacts, chromatic aberration on edges, terminal cursor blinks."
+
+Typography System:
+  Headings:
+    Font: "Developer Monospace (e.g., JetBrains Mono, Fira Code)"
+    Weight: "Bold Uppercase"
+    Tracking: "Normal tracking with console prompt prefixes (`> SYSTEM_INIT: `)."
+  Body:
+    Font: "Clean Sans-Serif (e.g., Inter, Source Code Pro)"
+    Language Directives: "Render body text in target prompt language formatted as structured code comment blocks."
+
+Camera & Pace Settings:
+  Camera Movement: "Rapid horizontal data sweeps; quick terminal pan movements; digital zoom snaps into UI elements."
+  Editing Pace: "Fast-paced, high-energy edits synced to electronic beats."
+
+Audio & Soundscape:
+  Music Tone: "Industrial synthwave, heavy glitch-hop bass, fast electronic arpeggiators."
+  Sound FX: "Mechanical keyboard clacks, modem handshake tones, digital error buzzes."
+
+Shot Catalog (Archetypes):
+  - Type: "Console Command Hero"
+    Layout: "Simulated bash terminal window occupying full screen; huge neon green headline with glowing cursor."
+  - Type: "System Architecture HUD"
+    Layout: "3-tier stacked array of neon bordered boxes with glowing status dots and directional data flow arrows."
+  - Type: "Telemetry KPI Dashboard"
+    Layout: "4 quadrant grid containing high-speed counting metrics, sparklines, and magenta alert boxes."
+  - Type: "Comparative Vector Table"
+    Layout: "Two contrasting columns (Vulnerability vs Patch) framed in slate grey cards with neon accent borders."
