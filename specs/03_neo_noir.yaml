@@ -1,0 +1,39 @@
+# Style: Neo-Noir / High-Contrast Crime Editorial
+# Tone: Cynical, sharp, investigative, tense
+
+Global Visual Settings:
+  Color Palette:
+    Base: "#000000 (Pure Pitch Black)"
+    Text Primary: "#FFFFFF (High-Contrast Pure White)"
+    Neon Accent: "#FACC15 (Amber Streetlight Yellow) or #EF4444 (Crimson Neon)"
+    Shadow Tone: "#171717 (Rain-Slicked Asphalt)"
+  Atmosphere & Lighting:
+    Lighting: "Venetian blind shadow cuts; sharp spotlighting; high-contrast monochrome with single neon color accent."
+    Texture: "Heavy 35mm film grain, rain-streak overlays, smoke plumes moving across light sources."
+
+Typography System:
+  Headings:
+    Font: "Heavy Condensed Sans (e.g., Impact, Bebas Neue, Oswald)"
+    Weight: "Ultra-Bold All-Caps"
+    Tracking: "Tight tracking, massive scale contrast against body text."
+  Body:
+    Font: "Typewriter / Mono (e.g., Courier Prime, Special Elite)"
+    Language Directives: "Native user prompt language. Short, punchy, redacted-style block formatting."
+
+Camera & Pace Settings:
+  Camera Movement: "Dutch angle tilts; tracking shots behind venetian blind silhouettes; sudden snap zooms on critical evidence."
+  Editing Pace: "Rhythmic, tense, alternating between long static holds and rapid evidence cuts."
+
+Audio & Soundscape:
+  Music Tone: "Muted jazz trumpet, low bass walks, rain on pavement ambient soundscapes."
+  Sound FX: "Typewriter keystrokes, camera shutter clicks, match strikes."
+
+Shot Catalog (Archetypes):
+  - Type: "Evidence Board Hero"
+    Layout: "Dark background with red yarn vectors connecting text nodes and high-contrast monochrome photo snippets."
+  - Type: "Interrogation Split"
+    Layout: "Left 60%: High-contrast shadow silhouette. Right 40%: Key suspect data in monospaced typewriter font with amber highlight."
+  - Type: "Redacted Document View"
+    Layout: "Full-bleed document page with black paint redaction bars over key text; revealed points highlighted in bright yellow."
+  - Type: "Timeline of Crime"
+    Layout: "Vertical neon yellow line with timestamp callouts on the left and sharp, declarative case facts on the right."
