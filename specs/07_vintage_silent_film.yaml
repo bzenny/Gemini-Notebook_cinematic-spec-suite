@@ -1,0 +1,39 @@
+# Style: 1920s Art Deco Intertitle & Silent Cinema
+# Tone: Nostalgic, theatrical, dramatic, historic
+
+Global Visual Settings:
+  Color Palette:
+    Background: "#121212 (Charcoal Velvet)"
+    Framing Borders: "#D4AF37 (Art Deco Gold)"
+    Text Primary: "#FFFDD0 (Cream White)"
+    Accent Tint: "#78350F (Sepia Bronze)"
+  Atmosphere & Lighting:
+    Lighting: "Stage arc lighting, soft vignetting, dramatic iris shots."
+    Texture: "16mm film scratches, flickering projection frame rate, heavy sepia tone overlays."
+
+Typography System:
+  Headings:
+    Font: "Art Deco Decorative Sans (e.g., Park Lane, Broadway, Poiret One)"
+    Weight: "Bold Geometric"
+    Tracking: "Wide, with ornate corner flourishes."
+  Body:
+    Font: "Classic Serif or Book Type (e.g., Bodoni, Baskerville)"
+    Language Directives: "Match prompt language natively. Center-aligned short declarative sentences."
+
+Camera & Pace Settings:
+  Camera Movement: "Static framed camera angles; iris-in and iris-out transitions; subtle hand-cranked camera jitter."
+  Editing Pace: "Theatrical theatrical cuts timed to piano accents."
+
+Audio & Soundscape:
+  Music Tone: "Upbeat ragtime piano, dramatic silent film organ, muted parlor brass."
+  Sound FX: "Film projector whirring, vinyl record static, wooden stage footfalls."
+
+Shot Catalog (Archetypes):
+  - Type: "Art Deco Intertitle"
+    Layout: "Full-frame gold geometric border enclosure surrounding centered cream-colored title text on charcoal velvet background."
+  - Type: "Sepia Vignette Split"
+    Layout: "Left 50%: Oval iris crop of historical archival photo. Right 50%: Ornate gold-framed text card."
+  - Type: "Dramatic Act Divider"
+    Layout: "Large Roman numeral 'ACT II' centered above a bold headline with decorative flourishes on top and bottom."
+  - Type: "Archival Comparison Matrix"
+    Layout: "Two vertical sepia-toned panels with gold trim comparing historical facts side-by-side."
