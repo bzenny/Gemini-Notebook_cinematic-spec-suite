@@ -1,0 +1,39 @@
+# Style: 1980s Neon Futurism / Outrun Arcade Editorial
+# Tone: Nostalgic, vibrant, energetic, stylized
+
+Global Visual Settings:
+  Color Palette:
+    Background: "#110928 (Deep Night Purple)"
+    Grid & Wireframes: "#FF007F (Hot Pink Neon)"
+    Sun & Highlights: "#FF9900 (Electric Sunset Orange)"
+    Text Primary: "#00F0FF (Cyan Glow)"
+  Atmosphere & Lighting:
+    Lighting: "Vibrant neon backlight; sunset gradient overlays; chrome mirror reflections."
+    Texture: "VHS tracking lines, subtle analog video fuzz, glowing vector wireframe grid background."
+
+Typography System:
+  Headings:
+    Font: "Retro Script or Italicized Display (e.g., Pacifico, Chrome Display, Brush Script)"
+    Weight: "Extra Bold Italic"
+    Tracking: "Wide with metallic gradient fill effects."
+  Body:
+    Font: "Geometric Retro Sans (e.g., Futura Bold, Montserrat)"
+    Language Directives: "User prompt language. High contrast against dark background using cyan or bright white."
+
+Camera & Pace Settings:
+  Camera Movement: "Forward fly-over motion along the vector grid toward a distant neon sun; rhythmic camera bounces."
+  Editing Pace: "Upbeat, rhythmic cuts shifting on synth-drum quarter notes."
+
+Audio & Soundscape:
+  Music Tone: "Analog retro synthwave, heavy gated reverb drums, lush synth pads."
+  Sound FX: "VHS cassette insertion clicks, neon sign buzzes, arcade chime sounds."
+
+Shot Catalog (Archetypes):
+  - Type: "Chrome Horizon Title"
+    Layout: "Massive metallic title centered above a wireframe perspective grid converging at a glowing orange sun."
+  - Type: "Neon Modular Cards"
+    Layout: "3 slanted card boxes outlined in hot pink with cyan headings and bright yellow accent bullet points."
+  - Type: "Arcade Leaderboard Matrix"
+    Layout: "High-contrast ranking list formatted like an 80s arcade top-score screen with rank numbers (01, 02, 03)."
+  - Type: "Outrun Split Screen"
+    Layout: "Left 50%: Retro vector graphics loop. Right 50%: Bold glowing text blocks framed in hot pink neon rules."
