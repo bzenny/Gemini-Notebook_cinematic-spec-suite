@@ -1,0 +1,39 @@
+# Style: Gothic Renaissance / Dark Mythic Realism
+# Tone: Atmospheric, solemn, ancient, majestic
+
+Global Visual Settings:
+  Color Palette:
+    Background: "#0C0A09 (Obsidian Slate)"
+    Primary Text: "#E7E5E4 (Aged Parchment White)"
+    Accent Color: "#991B1B (Crimson Blood Red)"
+    Secondary Gold: "#D97706 (Tarnished Brass)"
+  Atmosphere & Lighting:
+    Lighting: "Chiaroscuro shadowplay; flickering candlelight; low sun through stained glass; volumetric mist."
+    Texture: "Canvas weave, subtle ash particles drifting vertically, aged parchment borders."
+
+Typography System:
+  Headings:
+    Font: "High-Contrast Serif (e.g., Cinzel, Playfair Display)"
+    Weight: "Regular or Semi-Bold"
+    Tracking: "Generous tracking for an archaic editorial feel."
+  Body:
+    Font: "Classic Serif (e.g., Cormorant Garamond, EB Garamond)"
+    Language Directives: "Match prompt language natively. Elegant spacing with bold key terms."
+
+Camera & Pace Settings:
+  Camera Movement: "Creeping slow zooms; subtle vertical pan shifts following candle flames; static macro shots of engraved seals."
+  Editing Pace: "Lyrical, solemn pacing with cross-fades (5-8 seconds per transition)."
+
+Audio & Soundscape:
+  Music Tone: "Solemn cello solos, distant choral chants, reverberant acoustic instruments."
+  Sound FX: "Flickering flame crackle, heavy parchment turns, low bell knells."
+
+Shot Catalog (Archetypes):
+  - Type: "Gothic Chapter Plate"
+    Layout: "Central title framed by an intricate 1px crimson line border; small Roman numeral chapter indicator above."
+  - Type: "Illuminated Codex Split"
+    Layout: "Left side: High-detail mythic art or artifact macro photo. Right side: Parchment-toned text block with drop-cap initial."
+  - Type: "Ancient Map Annotation"
+    Layout: "Background: Desaturated parchment map. Foreground: Glowing crimson callout circles indicating territorial focal points."
+  - Type: "Relic Comparison Matrix"
+    Layout: "Three vertical columns separated by thin gold rules; top features carved icon seals; bottom features descriptive prose."
