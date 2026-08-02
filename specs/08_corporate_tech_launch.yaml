@@ -1,0 +1,39 @@
+# Style: Silicon Valley Product Keynote / Modern Architecture
+# Tone: Professional, authoritative, clean, vision-driven
+
+Global Visual Settings:
+  Color Palette:
+    Background: "#F8FAFC (Clean Studio Off-White) or #090A0F (Midnight Black Keynote Shift)"
+    Text Primary: "#0F172A (Deep Slate Black)"
+    Accent Color: "#2563EB (Electric Keynote Blue)"
+    Card Fills: "#EDF2F7 (Ultra-Light Gray Studio Base)"
+  Atmosphere & Lighting:
+    Lighting: "Soft studio softbox illumination; clean realistic device shadows; high glassmorphism clarity."
+    Texture: "Pure digital vector geometry, 0% noise, smooth frosted glass blur elements."
+
+Typography System:
+  Headings:
+    Font: "Modern Grotesk Sans (e.g., SF Pro Display, Helvetica Now, Inter)"
+    Weight: "Heavy Display Weight"
+    Tracking: "Tight tracking (-0.02em) for high scale impact."
+  Body:
+    Font: "Clean Corporate Sans (e.g., Inter, SF Pro Text)"
+    Language Directives: "Native target prompt language. High jump-ratio between title and body size."
+
+Camera & Pace Settings:
+  Camera Movement: "Smooth 3D device tilt maneuvers; subtle parallax layer sliding; precise snap alignment."
+  Editing Pace: "Dynamic, confident pacing matching executive presentation beats."
+
+Audio & Soundscape:
+  Music Tone: "Uplifting corporate ambient tech, subtle electronic pulse, inspiring piano swells."
+  Sound FX: "Soft UI pops, glass tap sounds, subtle camera shutter clicks."
+
+Shot Catalog (Archetypes):
+  - Type: "Keynote Hero Headline"
+    Layout: "Massive ultra-bold headline taking up top 50% of screen with a single blue line metric callout below."
+  - Type: "Mockup Glass Card Split"
+    Layout: "Left 60%: Floating 3D glass card with soft drop-shadow housing screenshot. Right 40%: Bold takeaway points."
+  - Type: "3-Column Metric Pillar"
+    Layout: "Three clean white card containers with giant blue numbers (01, 02, 03) acting as structural visual pillars."
+  - Type: "Executive Statement Slide"
+    Layout: "Dark mode transition slide (#090A0F background) with massive centered white quote text and blue accent mark."
