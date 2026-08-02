@@ -1,0 +1,39 @@
+# Style: Epic Hard Sci-Fi / Interstellar Cosmic Realism
+# Tone: Reverent, vast, scientifically precise, awe-inspiring
+
+Global Visual Settings:
+  Color Palette:
+    Primary Space: "#030712 (Deep Cosmic Void)"
+    Nebula Accent: "#06B6D4 (Deep Cyan Glow)"
+    Energy Focal: "#F59E0B (Stellar Gold)"
+    Text Primary: "#F9FAFB (Monolith White)"
+  Atmosphere & Lighting:
+    Lighting: "Strong directional key lighting from distant stars; high volumetric contrast; subtle lens flares."
+    Texture: "Subtle sub-atomic film grain, faint gravitational lensing distortion at screen edges."
+
+Typography System:
+  Headings:
+    Font: "Monospaced Geometric Sans (e.g., Space Mono, Orbitron)"
+    Weight: "Bold All-Caps"
+    Tracking: "Wide (0.15em spacing)"
+  Body:
+    Font: "Clean Tech Sans (e.g., Inter, Roboto)"
+    Language Directives: "Dynamic language selection based on user request. Maintain clean 1.6x line height."
+
+Camera & Pace Settings:
+  Camera Movement: "Slow, continuous orbital drifts; cinematic forward pushes into pitch-black voids; macro zoom on data nodes."
+  Editing Pace: "Glacial, deliberate cuts matching ambient synthesizer swells (4-6 seconds per scene shift)."
+
+Audio & Soundscape:
+  Music Tone: "Low-frequency sub-bass drones, crystalline analog synthesizers, atmospheric ambient pads."
+  Sound FX: "Geiger counter clicks, subtle telemetry chirps, vacuum hums."
+
+Shot Catalog (Archetypes):
+  - Type: "Monolith Title Drop"
+    Layout: "Centered monolithic sans-serif title floating over an ultra-dark cosmic horizon with a faint cyan accent line."
+  - Type: "Orbital Data Overlay"
+    Layout: "3D planetary curve occupying bottom 40% of frame. Technical schematics and glowing metric points tracking across the curvature."
+  - Type: "Deep Core Split"
+    Layout: "Left 50%: Glowing stellar anomaly or high-energy core. Right 50%: Technical bullet points rendered in monospaced font."
+  - Type: "Cosmic Timeline Axis"
+    Layout: "Horizontal vector line running edge-to-edge; glowing timeline nodes mark key historical or theoretical milestones."
