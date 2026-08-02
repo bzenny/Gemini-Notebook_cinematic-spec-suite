@@ -1,0 +1,39 @@
+# Style: Dynamic Anime Motion Graphic / Cyber-Action Graphic Novel
+# Tone: High-octane, expressive, stylized, dramatic
+
+Global Visual Settings:
+  Color Palette:
+    Background: "#050505 (Ink Black)"
+    Text Primary: "#FFFFFF (Impact White)"
+    Action Accent: "#FF0033 (Vibrant Crimson Red)"
+    Energy Tone: "#FFE600 (Arc Yellow)"
+  Atmosphere & Lighting:
+    Lighting: "High-contrast cel-shaded lighting; intense directional rim glows; speed-line halos."
+    Texture: "Manga halftone dot screen patterns, dynamic impact flash frames, action line vector overlays."
+
+Typography System:
+  Headings:
+    Font: "Ultra-Bold Slanted Display (e.g., Kanji-Inspired Sans, Japanese Gothic Heavy, Anton)"
+    Weight: "Heavy Slanted/Italic"
+    Tracking: "Tight, high-impact block positioning."
+  Body:
+    Font: "Heavy Anime Subtitle Style (e.g., Trebuchet MS, Montserrat ExtraBold)"
+    Language Directives: "Target language rendered in high-contrast yellow or white text with a 2px black outline."
+
+Camera & Pace Settings:
+  Camera Movement: "Dramatic crash zooms; fast diagonal camera whip pans; dynamic kinetic text tracking."
+  Editing Pace: "Hyper-fast kinetic pacing with quick cut bursts."
+
+Audio & Soundscape:
+  Music Tone: "High-tempo electronic rock, heavy guitar riffs, fast synth arpeggios."
+  Sound FX: "Sword slash swooshes, explosion rumbles, energy charge-up sounds."
+
+Shot Catalog (Archetypes):
+  - Type: "Impact Title Slash"
+    Layout: "Slanted ultra-bold title text split diagonally across screen by a crimson action line with halftone background."
+  - Type: "Manga Panel Grid"
+    Layout: "3 asymmetric manga-style action panels outlined in thick black rules with red speed-line backgrounds."
+  - Type: "Versus Comparison Split"
+    Layout: "Diagonal split screen. Left: Crimson team card. Right: Arc Yellow solution card. Giant black VS badge in center."
+  - Type: "Kinetic Callout List"
+    Layout: "Sequential kinetic text pop-ins framed by heavy yellow comic speech boxes with bold black drop-shadows."
