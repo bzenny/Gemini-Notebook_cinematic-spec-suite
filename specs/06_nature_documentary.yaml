@@ -1,0 +1,39 @@
+# Style: National Geographic Style Environmental Realism
+# Tone: Observational, cinematic, organic, educational
+
+Global Visual Settings:
+  Color Palette:
+    Background: "#0F172A (Deep Ocean Blue or #1C1917 Deep Organic Bark)"
+    Text Primary: "#F8FAFC (Pure Mineral White)"
+    Eco Accent: "#22C55E (Lush Forest Green)"
+    Warm Sunlight: "#EAB308 (Golden Hour Amber)"
+  Atmosphere & Lighting:
+    Lighting: "Natural sunlight filtering through forest canopy or water; soft volumetric god rays."
+    Texture: "Ultra-clean high dynamic range, subtle airborne pollen or water droplet micro-particles."
+
+Typography System:
+  Headings:
+    Font: "Refined Modern Serif (e.g., Lora, Merriweather)"
+    Weight: "Semi-Bold"
+    Tracking: "Standard elegance, natural proportions."
+  Body:
+    Font: "Humanist Sans-Serif (e.g., Gill Sans, Open Sans)"
+    Language Directives: "Native user language. Generous line spacing and clear visual hierarchy."
+
+Camera & Pace Settings:
+  Camera Movement: "Smooth drone-style sweeping pans; slow-motion macro pushes onto natural textures; tilt shifts."
+  Editing Pace: "Gentle, breathing rhythm (6-10 seconds per scene shift)."
+
+Audio & Soundscape:
+  Music Tone: "Sweeping orchestral strings, woodwind melodies, subtle acoustic guitar accents."
+  Sound FX: "Wind through trees, ocean surf, wilderness ambient sounds, bird calls."
+
+Shot Catalog (Archetypes):
+  - Type: "Cinematic Vista Title"
+    Layout: "Ultra-wide landscape imagery background with a clean white serif title centered over subtle dark gradient mask."
+  - Type: "Species Profile Split"
+    Layout: "Left 50%: Full-height macro photography shot. Right 50%: Environmental stats, habitat range, and conservation bullet points."
+  - Type: "Ecosystem Food Web Grid"
+    Layout: "Organic connected network diagram with soft green glowing nodes over a dark forest backdrop."
+  - Type: "Climate Metrics Chart"
+    Layout: "Minimalist line graph overlay with golden amber datapoints showing environmental trends over decades."
